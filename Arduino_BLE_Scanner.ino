@@ -9,7 +9,7 @@
 #define SCAN_TIME 30     // seconds
 #define WAIT_WIFI_LOOP 5 // around 4 seconds for 1 loop
 #define SLEEP_TIME 300   // seconds
-
+ 
 #include <Arduino.h>
 #include <sstream>
 
